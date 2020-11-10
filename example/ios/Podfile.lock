@@ -1,13 +1,10 @@
 PODS:
   - Flutter (1.0.0)
-  - UMCAnalytics (6.1.0):
-    - UMCCommon
-  - UMCCommon (2.1.4)
+  - UMCCommon (7.2.2)
   - UMCCommonLog (2.0.0)
   - umeng_sdk (0.0.1):
     - Flutter
-    - UMCAnalytics
-    - UMCCommon (= 2.1.4)
+    - UMCCommon (= 7.2.2)
     - UMCCommonLog
 
 DEPENDENCIES:
@@ -16,7 +13,6 @@ DEPENDENCIES:
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
-    - UMCAnalytics
     - UMCCommon
     - UMCCommonLog
 
@@ -28,10 +24,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  UMCAnalytics: 3503f179f7af932b30af9ac161ac11fb48fa72b6
-  UMCCommon: b0703b0053323f598e01670ea702b8eb1e66e611
+  UMCCommon: 15e5311b00c7ff6e6ffb1f5c965651373b6b2b3c
   UMCCommonLog: 9b7ddde5d14a52fc1986ba5ac3121b8b2f433638
-  umeng_sdk: 4875f7b5952cc444ba0223f75d3e66e4158032ae
+  umeng_sdk: 3846f719181b4e3f2aa8cf80f7bd40ab6ff48dce
 
 PODFILE CHECKSUM: 13cd9f1f252f34d3197423ee9d0a1bc293d00b8b
 

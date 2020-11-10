@@ -1,7 +1,7 @@
 #import "UmengSdkPlugin.h"
 
 #import <UMCommon/UMConfigure.h>
-#import <UMAnalytics/MobClick.h>
+#import <UMCommon/MobClick.h>
 
 @interface UMengflutterpluginForUMCommon : NSObject
 @end
